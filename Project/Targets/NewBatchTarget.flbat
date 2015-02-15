@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="1"
+      Type="DotNet Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="2"
+      Type="HTML Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="3"
+      Type="WebHelp"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="4"
+      Type="WebHelp Mobile"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="5"
+      Type="Eclipse Help"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="6"
+      Type="DITA"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="7"
+      Type="XHTML Book"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="8"
+      Type="XPS"
+      Build="true"
+      LastBuilt=""
+      LastPublished="" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2/15/2015 10:22:01 AM"
+      LastPublished="" />
+  </Targets>
+</CatapultBatchTarget>
